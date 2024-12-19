@@ -7,7 +7,8 @@
 <br>
 
 <div align="center">
-  <img src="./imagenes/Banner_github.png"  />
+ <img width="801" alt="banne_rachellRG29" src="https://github.com/user-attachments/assets/9039b446-d5e7-4509-9078-87347856813f" />
+  
 </div>
 
 ## 🌌 Sobre mí 🌌
